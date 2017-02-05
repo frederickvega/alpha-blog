@@ -11,6 +11,10 @@ gem 'rails', '~> 5.0.1'
 
 # Use bcrypt for secure password
 gem 'bcrypt', '~> 3.1.7'
+
+# Use pagination
+gem 'will_paginate', '~> 3.1.5'
+gem 'will_paginate-bootstrap'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
