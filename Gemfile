@@ -12,6 +12,7 @@ gem 'rails', '~> 5.0.1'
 # Use bcrypt for secure password
 gem 'bcrypt', '~> 3.1.7'
 
+gem 'rails-controller-testing'
 # Use pagination
 gem 'will_paginate', '~> 3.1.5'
 gem 'will_paginate-bootstrap'
